@@ -1,0 +1,5 @@
+{
+  "name": "PulmoVis - Visualizador de Patología Pulmonar",
+  "description": "Una herramienta interactiva para visualizar y aprender sobre patologías pulmonares como derrame pleural, atelectasia y neumonía utilizando modelos SVG dinámicos e IA.",
+  "requestFramePermissions": []
+}
